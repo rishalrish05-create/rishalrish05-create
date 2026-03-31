@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm rishal k
 
-<!--
-**rishalrish05-create/rishalrish05-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student | Ethical Hacking Enthusiast
+💻 Passionate about Web Security & Vulnerability Research
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🎓 Studying Cybersecurity
+* 🛡️ Interested in Ethical Hacking & Penetration Testing
+* 🧪 Building vulnerable labs & practicing real-world attacks
+* 🌱 Currently learning: Privilege Escalation, Web Exploitation
+* ⚡ Goal: Become a Professional Penetration Tester
+
+---
+
+## 🚀 Projects
+
+### 🔓 Vulnerable Machine (Beginner Lab)
+
+* Designed a beginner-friendly vulnerable VM for practice
+* Focus: Enumeration → Exploitation → Privilege Escalation
+* Tools used: Nmap, Netcat, Linux
+
+### 🌐 Web Exploitation Lab
+
+* Practiced vulnerabilities using Burp Suite
+* Exploited login bypass & parameter manipulation
+* Learned request interception & payload crafting
+
+---
+
+## 🛠️ Skills & Tools
+
+* 🔍 Recon: Nmap, Gobuster
+* 💣 Exploitation: Burp Suite, Metasploit
+* 🐧 OS: Kali Linux, Ubuntu
+* 💻 Basics: HTML, Networking
+
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME\&theme=radical)
+
+
+## 🛡️ Cybersecurity Journey
+
+* 🧠 Practicing on TryHackMe / HackTheBox
+* 🧪 Creating labs to simulate real attacks
+* 📚 Learning daily about vulnerabilities & exploits
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: (www.linkedin.com/in/muhammed-rishal-k-b4bb29388)
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy breaking systems to learn how to secure them 😎
