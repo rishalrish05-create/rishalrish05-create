@@ -39,11 +39,6 @@
 * 💻 Basics: HTML, Networking
 
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME\&theme=radical)
-
-
 ## 🛡️ Cybersecurity Journey
 
 * 🧠 Practicing on TryHackMe / HackTheBox
